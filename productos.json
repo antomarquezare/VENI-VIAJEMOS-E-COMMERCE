@@ -1,0 +1,33 @@
+[
+    {
+        "id":1,
+        "nombre": "Argentina",
+        "img": "./"img"/productos/1.jpg",
+        "precio": 600,
+    },
+    {
+        "id":2,
+        "nombre": "Brasil",
+        "precio": 500,
+    },
+    {
+        "id":3,
+        "nombre": "Uruguay",
+        "precio": 150,
+    },
+    {
+        "id":4,
+        "nombre": "Caribe",
+        "precio": 1500,
+    },
+    {
+        "id":5,
+        "nombre": "Europa",
+        "precio": 2300,
+    },
+    {
+        "id":6,
+        "nombre": "Asia",
+        "precio": 3500,
+    }
+  ]
